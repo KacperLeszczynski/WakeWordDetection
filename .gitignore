@@ -1,0 +1,5 @@
+.env
+
+testing/negative/
+testing/positive/
+testing/nemo_chunks/
